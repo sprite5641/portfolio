@@ -4,10 +4,10 @@
         "mobile": "HP2",
         "desktop": "Prachaya tatiyasamrit"
     },
-    "mainPicture": "./publicassets/HP2.webp",
-    "mainPictureJPG": "./publicassets/HP2.jpg",
+    "mainPicture": "./public/assets/HP2.webp",
+    "mainPictureJPG": "./public/assets/HP2.jpg",
     "pronunciation": "Sprite",
-    "audioFile": "./publicassets/name-pro.mp3",
+    "audioFile": "./public/assets/name-pro.mp3",
     "cssVarPrefix": "hp2",
     "email": "prachaya5641.pt@gmail.com",
     "linkedin": "https://www.linkedin.com/in/prachaya-tatiyasamrit-6689941b0/",

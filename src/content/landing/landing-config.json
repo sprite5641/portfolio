@@ -1,5 +1,5 @@
 {
     "headline": "Hello, I'm Prachaya tatiyasamrit.",
-    "picture": "./publicassets/landing/face2.webp",
-    "jpg": "./publicassets/landing/face2.jpg"
+    "picture": "./public/assets/landing/face2.webp",
+    "jpg": "./public/assets/landing/face2.jpg"
 }
