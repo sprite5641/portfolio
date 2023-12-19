@@ -1,6 +1,6 @@
 # Portfolio Template 🖐
 
-![Portfolio Template Banner](public/assets/readme/banner.png)
+![Portfolio Template Banner](public/assets/readme/banner2.png)
 
 ---
 
