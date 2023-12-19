@@ -7,8 +7,8 @@
         "demo": "https://sprite5641.github.io/",
         "tags": ["Python", "Vue", "Flask", "Artificial Intelligence", "Language Processing"],
         "description": "Post is a simple algorithm that was developed to tag a word in a sentence corresponding to its part of speech. The algorithm makes of a probabilistic approach along with some randomness, together which forms the basis of an algorithm called Gibbs Sampling.",
-        "image": "/assets/other-projects/post.webp",
-        "jpg": "/assets/other-projects/post.jpeg"
+        "image": "assets/other-projects/post.webp",
+        "jpg": "assets/other-projects/post.jpeg"
 
     }
 ]

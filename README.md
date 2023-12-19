@@ -1,6 +1,6 @@
 # Portfolio Template 🖐
 
-![Portfolio Template Banner](public/assets/readme/banner2.png)
+![Portfolio Template Banner](publicassets/readme/banner2.png)
 
 ---
 
@@ -46,7 +46,7 @@ $ yarn build
 
 All the information can be edited in the JSONs and Markdowns in the [content folder](https://github.com/sprite5641/portfolio/tree/main/src/content). Each section of the portfolio has its own folder. The `common.json` file contains details that are used throughout the website. 
 
-All the images are in `public/assets`.
+All the images are in `publicassets`.
 
 ## Contributing 
 
