@@ -1,10 +1,15 @@
-Welcome 👋 I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois. I recently graduated from Indiana University with a Masters degree in Computer Science and I'm passionate about **Software Development**, **UX Design** and **Artificial Intelligence**.
+Welcome 👋 I'm a _Full Stack Developer_ at a tech company based out of Chiang Mai, Thailand. I graduated from Lampang Rajabhat University I'm passionate about **Software Development** and **Artificial Intelligence**.
 
 I'm currently working with,
 
--   React (TS)
--   NodeJS
--   Flask (Python)
--   HTML/SCSS
+-   ReactJS (NextJS)
+-   VueJS (NuxtJS)
+-   NodeJS (ExpressJS, NestJS)
+-   Golang (Fiber, Echo, Gin)
+-   TypeScript
 -   WebSockets
--   GraphQL
+-   PostgreSQL
+-   MongoDB
+-   Google Cloud Platform
+-   Docker
+-   Terraform

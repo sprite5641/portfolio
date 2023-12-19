@@ -1,30 +1,30 @@
 {
-    "name": "Hrishikesh Paul",
+    "name": "Prachaya tatiyasamrit",
     "logoType": {
-        "mobile": "HP",
-        "desktop": "Hrishikesh Paul"
+        "mobile": "HP2",
+        "desktop": "Prachaya tatiyasamrit"
     },
-    "mainPicture": "/assets/HP.webp",
-    "mainPictureJPG": "/assets/HP.jpeg",
-    "pronunciation": "/ri-shi-kaysh/",
+    "mainPicture": "/assets/HP2.webp",
+    "mainPictureJPG": "/assets/HP2.jpg",
+    "pronunciation": "Sprite",
     "audioFile": "/assets/name-pro.mp3",
-    "cssVarPrefix": "hp",
-    "email": "hrishikeshpaul12@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/hrishikeshpaul/",
-    "github": "https://github.com/hrishikeshpaul",
+    "cssVarPrefix": "hp2",
+    "email": "prachaya5641.pt@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/prachaya-tatiyasamrit-6689941b0/",
+    "github": "https://github.com/sprite5641",
     "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
     "socials": [
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/in/hrishikeshpaul/"
+            "link": "https://www.linkedin.com/in/prachaya-tatiyasamrit-6689941b0/"
         },
         {
             "type": "github",
-            "link": "https://github.com/hrishikeshpaul"
+            "link": "https://github.com/sprite5641"
         },
         {
             "type": "mail",
-            "link": "mailto:hrishikeshpaul12@gmail.com"
+            "link": "mailto:prachaya5641.pt@gmail.com"
         }
     ]
 }

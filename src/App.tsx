@@ -20,11 +20,11 @@ const FeaturedProjects = lazy(() =>
         default: module.FeaturedProjects,
     })),
 );
-const OtherProjects = lazy(() =>
-    import("pages/other-projects/OtherProjects").then((module) => ({
-        default: module.OtherProjects,
-    })),
-);
+// const OtherProjects = lazy(() =>
+//     import("pages/other-projects/OtherProjects").then((module) => ({
+//         default: module.OtherProjects,
+//     })),
+// );
 const About = lazy(() => import("pages/about/About").then((module) => ({ default: module.About })));
 
 const Loader: FC = () => (
@@ -49,8 +49,8 @@ export const App: FC = () => {
                         <PageHeader label="Featured Projects" />
                         <FeaturedProjects />
 
-                        <PageHeader id="page-other-projects" label="Other Projects" />
-                        <OtherProjects />
+                        {/* <PageHeader id="page-other-projects" label="Other Projects" /> */}
+                        {/* <OtherProjects /> */}
                     </Box>
 
                     <Box id={AboutPageId}>

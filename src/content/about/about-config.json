@@ -2,111 +2,80 @@
     "educations": [
         {
             "id": "edu-1",
-            "school": "Indiana University",
-            "degree": "Master of Science in Computer Science",
-            "duration": "Aug 2019 - May 2021",
+            "school": "Lampang Rajabhat University",
+            "degree": "Information Technology",
+            "duration": "Aug 2016 - Mar 2020",
             "content": [
-                "GPA: 4/4",
-                "Courses: Software Engineering, Distributed Systems, Operating Systems, Advanced Algorithms, Experience Design"
+                "GPA: 3.36",
+                "Courses: Data Structures, OOP, Algorithms, Software Engineering, Computer Networks, Artificial Intelligence"
             ]
         },
         {
             "id": "edu-2",
-            "school": "Manipal University",
-            "degree": "Bachelors in Computer Engineering",
-            "duration": "Aug 2015 - Jul 2019",
-            "content": [
-                "GPA: 8/10",
-                "Courses: Data Structures, OOP, Algorithms, Software Engineering, Computer Networks, Artificial Intelligence"
-            ]
+            "school": "Lampangpoly",
+            "degree": "Electronics",
+            "duration": "May 2013 - Apr 2016",
+            "content": ["GPA: 3.63", "Courses: Digital Electronics, Microprocessor"]
         }
     ],
     "experiences": [
         {
             "id": "exp-1",
-            "company": "Reputation",
-            "position": "Software Engineer (Frontend)",
-            "duration": "Jun 2020 - Jun 2021",
+            "company": "Infinity Code Co., Ltd",
+            "position": "Full Stack Developer",
+            "duration": "Sep 2022 - Present",
             "description": [
-                "Revamping the current report generation framework using React, that aggregates data from 30 modules to support an interactive cartesian system.​",
-                "Integrated user activity data from BigQuery into a custom tailored dashboard available to 10000+ clients.",
-                "Spearheaded the work on multiple reports for 5 priority clients to provide additional functionalities."
+                "Spearheading the development of a highly scalable web application using Node.js and Nuxt.js, delivering robust front-end and back-end solutions that enhance overall system performance and user engagement.",
+                "Implementing server-side logic in Golang to handle high-throughput data processing, significantly improving application efficiency and reducing response times.",
+                "Leading the integration of a RESTful API architecture, ensuring seamless communication between front-end and back-end systems, and facilitating efficient data exchange.",
+                "Collaborating in the design and implementation of a microservices architecture, leveraging Golang's concurrency model to handle multiple service requests simultaneously.",
+                "Championing the development of responsive and intuitive user interfaces with Nuxt.js, enhancing user interaction and providing a seamless experience across various devices and platforms.",
+                "Actively involved in database design and management, employing best practices in data modeling and storage to optimize application performance and scalability.",
+                "Ensuring code quality and maintainability by adopting agile methodologies, conducting thorough code reviews, and implementing automated testing frameworks.",
+                "Playing a crucial role in continuous integration and deployment processes, utilizing modern DevOps tools to streamline and automate application updates and deployments."
             ]
         },
         {
             "id": "exp-2",
-            "company": "CNS (NIH), Indiana University",
-            "position": "Software Engineer",
-            "duration": "Jun 2020 - Jun 2021",
+            "company": "Paiduaykanmai Co., Ltd",
+            "position": "Mid-level Backend Developer",
+            "duration": "Apr 2022- Aug 2022",
             "description": [
-                "Developed state of the art visualization tools for researchers and doctors to envision large biological datasets using ​Angular 11​, Node & Vega.​",
-                "Devised an algorithm to compute statistics that highlight anomalies in the data and displayed them on an intuitive interface.",
-                "Created detailed UX flows, experience maps, wire-frames and conducted interviews across various biological consortia to enhance user experience."
+                "Engineered a real-time data processing pipeline that efficiently handled streaming data, ensuring timely and accurate updates for end-users in research and medical fields.",
+                "Collaborated closely with front-end developers to integrate the backend systems with dynamic web interfaces, ensuring seamless data flow and interaction.",
+                "Conducted thorough usability testing and user feedback sessions, leading to the development of more intuitive and responsive user interfaces, which enhanced the overall user experience.",
+                "Played a key role in optimizing database queries and server responses, resulting in a 40% improvement in application response times and data retrieval efficiency."
             ]
         },
         {
             "id": "exp-3",
-            "company": "Skylark Drones",
-            "position": "Software Engineer Intern",
-            "duration": "Jan 2019 - Jun 2019",
+            "company": "Infinity Code Co., Ltd",
+            "position": "Junior Backend Developer",
+            "duration": "Dec 2020 - Mar 2022",
             "description": [
-                "Developed a web app for mission planning, control and execution using Vue & Flask, thereby improving onside project performance by 22%.​",
-                "Designed an icon set for various functionalities using ​Illustrator​, which improved usability by 20%."
+                "Spearheaded the development of a robust API for a dynamic web application, enhancing data handling and server-side functionalities. This effort significantly improved backend efficiency and user experience.",
+                "Assisted in optimizing server load balancing and resource management, resulting in smoother application performance and a 30% reduction in server downtime.",
+                "Participated in the continuous improvement of backend systems by introducing modern development practices and technologies, contributing to the overall scalability and maintainability of the projects."
             ]
         }
     ],
     "skills": [
         {
             "title": "Programming",
-            "tools": [
-                "TypeScript",
-                "JavaScript",
-                "Python",
-                "C/C++",
-                "Java",
-                "NoSQL",
-                "SQL",
-                "Shell",
-                "React Native",
-                "Vega (D3.js)"
-            ]
+            "tools": ["TypeScript", "JavaScript", "Golang", "NoSQL", "SQL"]
         },
         {
             "title": "Web",
-            "tools": ["React", "Angular 11", "Vue", "NodeJS", "Flask", "Redux", "NGXS", "HTML/CSS", "OAuth", "i18n"]
+            "tools": ["React", "Vue", "NodeJS", "Golang", "HTML/CSS", "OAuth", "i18n"]
         },
         {
             "title": "Databases",
-            "tools": ["MongoDB", "Redis", "MySQL", "Firebase"]
+            "tools": ["MongoDB", "Redis", "PostgreSQL", "Firebase"]
         },
 
         {
             "title": "OS & Tools",
-            "tools": ["MacOS", "Linux", "Git", "Agile (Scrum)", "MVC", "Jenkins", "Heroku", "Docker", "Kubernetes"]
-        },
-        {
-            "title": "Design & Research",
-            "tools": [
-                "Surveys",
-                "Interviews",
-                "User Research",
-                "Design Strategy",
-                "Experience Mapping",
-                "Adobe XD",
-                "Illustrator"
-            ]
-        }
-    ],
-    "blog": [
-        {
-            "id": "blog-1",
-            "title": "A beginner's guide to github",
-            "link": "https://hrishikeshpaul12.medium.com/a-beginners-guide-to-github-a811e662a777"
-        },
-        {
-            "id": "blog-2",
-            "title": "User Experience Design – A little more than just design",
-            "link": "https://hrishikeshpaul12.medium.com/user-experience-design-a-little-more-than-just-design-afdb941aeb5"
+            "tools": ["MacOS", "Git", "Agile (Scrum)", "Heroku", "Docker"]
         }
     ]
 }
