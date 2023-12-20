@@ -79,8 +79,8 @@ export const ProjectCardFooter: FC<Props> = ({ readMore, github, demo }) => {
         <Flex justifyContent={readMore ? "space-between" : "flex-end"} alignItems="center" pt="8">
             <ReadMore readMore={readMore} />
             <Flex gap="4" justifyContent="space-between" alignItems="center" display={demo || github ? "flex" : "none"}>
-                <LiveDemo demo={demo} />
-                <GitHubButton github={github} />
+                {/* <LiveDemo demo={demo} /> */}
+                {/* <GitHubButton github={github} /> */}
             </Flex>
         </Flex>
     );

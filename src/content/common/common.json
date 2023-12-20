@@ -1,14 +1,14 @@
 {
     "name": "Prachaya tatiyasamrit",
     "logoType": {
-        "mobile": "HP2",
+        "mobile": "Sprite",
         "desktop": "Prachaya tatiyasamrit"
     },
-    "mainPicture": "./public/assets/HP2.webp",
-    "mainPictureJPG": "./public/assets/HP2.jpg",
+    "mainPicture": "/portfolio/assets/HP2.webp",
+    "mainPictureJPG": "/portfolio/assets/HP2.jpg",
     "pronunciation": "Sprite",
-    "audioFile": "./public/assets/name-pro.mp3",
-    "cssVarPrefix": "hp2",
+    "audioFile": "/portfolio/assets/name-pro.mp3",
+    "cssVarPrefix": "sprite",
     "email": "prachaya5641.pt@gmail.com",
     "linkedin": "https://www.linkedin.com/in/prachaya-tatiyasamrit-6689941b0/",
     "github": "https://github.com/sprite5641",

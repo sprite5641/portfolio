@@ -3,7 +3,8 @@ import { FC } from "react";
 import { Button, HStack, IconButton, Tooltip } from "@chakra-ui/react";
 
 import { configs } from "shared/content/Content";
-// import { onResumeOpen, open } from "utils/Functions";
+// onResumeOpen,
+import { open } from "utils/Functions";
 import { FacebookIcon, GitHubIcon, InstagramIcon, LinkedInIcon, MailIcon, YoutubeIcon } from "utils/Icons";
 
 const LinksToIconMapper: Record<string, JSX.Element> = {
@@ -42,6 +43,7 @@ export const Socials: FC<Props> = ({ resume = true, exclude, delay = 800 }) => {
                                 data-aos-delay={idx * 100 + delay}
                                 fontSize={social.type === "mail" ? "24pt" : "20pt"}
                                 icon={LinksToIconMapper[social.type]}
+                                onClick={() => open(social.link)}
                             />
                         </Tooltip>
                     ),

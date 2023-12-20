@@ -8,8 +8,8 @@
         "github": "https://github.com/sprite5641",
         "tags": ["NuxtJs", "Golang", "Web Sockets", "GCP", "CI/CD", "PostgreSQL"],
         "description": "A point of sale system for a restaurant. The system is built with NuxtJs and Golang. The system is deployed on GCP. The system is integrated with a thermal printer and a cash drawer. The system is integrated with a payment gateway.",
-        "image": "./public/assets/featured-projects/pos.webp",
-        "jpg": "./public/assets/featured-projects/pos.png"
+        "image": "/portfolio/assets/featured-projects/pos.webp",
+        "jpg": "/portfolio/assets/featured-projects/pos.png"
     },
     {
         "id": "featured-project-daywork",
@@ -20,8 +20,8 @@
         "github": "https://github.com/sprite5641",
         "tags": ["NuxtJs", "Golang", "Web Sockets", "GCP", "CI/CD", "PostgreSQL"],
         "description": "A platform for finding part-time and full-time jobs. The system is built with NuxtJs and Golang. The system is deployed on GCP.",
-        "image": "./public/assets/featured-projects/daywork.webp",
-        "jpg": "./public/assets/featured-projects/daywork.png"
+        "image": "/portfolio/assets/featured-projects/daywork.webp",
+        "jpg": "/portfolio/assets/featured-projects/daywork.png"
     },
     {
         "id": "featured-project-esport",
@@ -32,7 +32,7 @@
         "github": "https://github.com/sprite5641",
         "tags": ["NuxtJs", "Nodejs", "Web Sockets", "GCP", "CI/CD", "PostgreSQL"],
         "description": "A platform for finding and creating esport tournaments. The system is built with NuxtJs and Nodejs. The system is deployed on GCP.",
-        "image": "./public/assets/featured-projects/esport.webp",
-        "jpg": "./public/assets/featured-projects/esport.png"
+        "image": "/portfolio/assets/featured-projects/esport.webp",
+        "jpg": "/portfolio/assets/featured-projects/esport.png"
     }
 ]
