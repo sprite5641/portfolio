@@ -25,15 +25,14 @@
             "position": "Full Stack Developer",
             "duration": "Sep 2022 - Present",
             "description": [
-                "Spearheading the development of a highly scalable web application using Node.js and Nuxt.js, delivering robust front-end and back-end solutions that enhance overall system performance and user engagement.",
-                "Implementing server-side logic in Golang to handle high-throughput data processing, significantly improving application efficiency and reducing response times.",
-                "Leading the integration of a RESTful API architecture, ensuring seamless communication between front-end and back-end systems, and facilitating efficient data exchange.",
-                "Collaborating in the design and implementation of a microservices architecture, leveraging Golang's concurrency model to handle multiple service requests simultaneously.",
-                "Championing the development of responsive and intuitive user interfaces with Nuxt.js, enhancing user interaction and providing a seamless experience across various devices and platforms.",
-                "Actively involved in database design and management, employing best practices in data modeling and storage to optimize application performance and scalability.",
-                "Ensuring code quality and maintainability by adopting agile methodologies, conducting thorough code reviews, and implementing automated testing frameworks.",
-                "Playing a crucial role in continuous integration and deployment processes, utilizing modern DevOps tools to streamline and automate application updates and deployments."
-            ]
+                "Leading scalable web app development with Node.js and Nuxt.js to improve performance and engagement.",
+                "Developing Golang server logic for efficient data processing and quick responses.",
+                "Spearheading seamless integration of RESTful APIs for effective front-end to back-end communication.",
+                "Driving development of intuitive, responsive interfaces with Nuxt.js for uniform multi-device experiences.",
+                "Involved in database design and management using best practices for performance and scalability.",
+                "Ensuring code quality and maintainability with agile methods, thorough reviews, and automated testing.",
+                "Key role in CI/CD processes, using DevOps tools for streamlined app updates and deployments."
+              ]
         },
         {
             "id": "exp-2",
@@ -41,11 +40,11 @@
             "position": "Mid-level Backend Developer",
             "duration": "Apr 2022- Aug 2022",
             "description": [
-                "Engineered a real-time data processing pipeline that efficiently handled streaming data, ensuring timely and accurate updates for end-users in research and medical fields.",
-                "Collaborated closely with front-end developers to integrate the backend systems with dynamic web interfaces, ensuring seamless data flow and interaction.",
-                "Conducted thorough usability testing and user feedback sessions, leading to the development of more intuitive and responsive user interfaces, which enhanced the overall user experience.",
-                "Played a key role in optimizing database queries and server responses, resulting in a 40% improvement in application response times and data retrieval efficiency."
-            ]
+                "Developed a real-time data pipeline for efficient stream processing, guaranteeing up-to-date and precise information for users in research and healthcare.",
+                "Worked closely with front-end teams to merge backend systems with interactive web interfaces for fluid data integration and user interaction.",
+                "Performed extensive usability tests and user feedback rounds, creating more intuitive and agile interfaces, improving user experience.",
+                "Crucial in database and server optimization, achieving a 40% boost in app responsiveness and data access speed."
+              ]
         },
         {
             "id": "exp-3",
@@ -53,10 +52,10 @@
             "position": "Junior Backend Developer",
             "duration": "Dec 2020 - Mar 2022",
             "description": [
-                "Spearheaded the development of a robust API for a dynamic web application, enhancing data handling and server-side functionalities. This effort significantly improved backend efficiency and user experience.",
-                "Assisted in optimizing server load balancing and resource management, resulting in smoother application performance and a 30% reduction in server downtime.",
-                "Participated in the continuous improvement of backend systems by introducing modern development practices and technologies, contributing to the overall scalability and maintainability of the projects."
-            ]
+                "Led the development of a high-performance API for a dynamic web app, improving data management and backend functionality, which enhanced efficiency and user experience.",
+                "Contributed to server load optimization and resource allocation, achieving smoother performance and reducing server downtime by 30%.",
+                "Engaged in backend enhancements by adopting cutting-edge development methods and tech, enhancing project scalability and maintainability."
+              ]
         }
     ],
     "skills": [
