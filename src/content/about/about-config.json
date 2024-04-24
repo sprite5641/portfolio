@@ -71,10 +71,17 @@
             "title": "Databases",
             "tools": ["MongoDB", "Redis", "PostgreSQL", "Firebase"]
         },
-
         {
             "title": "OS & Tools",
             "tools": ["MacOS", "Git", "Agile (Scrum)", "Heroku", "Docker"]
+        },
+        {
+            "title": "Cloud",
+            "tools": ["AWS", "GCP"]
+        },
+        {
+            "title": "Languages",
+            "tools": ["Thai (Native)", "English (Basic)"]
         }
     ]
 }
