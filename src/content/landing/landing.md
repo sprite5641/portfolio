@@ -2,7 +2,6 @@ Welcome 👋 I'm a _Full Stack Developer_ at a tech company based out of Chiang 
 
 I'm currently working with,
 
--   ReactJS (NextJS)
 -   VueJS (NuxtJS)
 -   NodeJS (ExpressJS, NestJS)
 -   Golang (Fiber, Echo, Gin)

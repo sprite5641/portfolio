@@ -65,7 +65,7 @@
         },
         {
             "title": "Web",
-            "tools": ["React", "Vue", "NodeJS", "Golang", "HTML/CSS", "OAuth", "i18n"]
+            "tools": ["Vue", "NodeJS", "Golang", "HTML/CSS", "OAuth", "i18n"]
         },
         {
             "title": "Databases",
@@ -77,7 +77,7 @@
         },
         {
             "title": "Cloud",
-            "tools": ["AWS", "GCP"]
+            "tools": ["GCP"]
         },
         {
             "title": "Languages",

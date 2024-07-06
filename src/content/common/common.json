@@ -9,14 +9,14 @@
     "pronunciation": "Sprite",
     "audioFile": "/portfolio/assets/name-pro.mp3",
     "cssVarPrefix": "sprite",
-    "email": "prachaya5641.pt@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/prachaya-tatiyasamrit-6689941b0/",
+    "email": "prachaya.dev.work@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/prachaya-tatiyasamrit-6689941b0",
     "github": "https://github.com/sprite5641",
     "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
     "socials": [
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/in/prachaya-tatiyasamrit-6689941b0/"
+            "link": "https://www.linkedin.com/in/prachaya-tatiyasamrit-6689941b0"
         },
         {
             "type": "github",
@@ -24,7 +24,7 @@
         },
         {
             "type": "mail",
-            "link": "mailto:prachaya5641.pt@gmail.com"
+            "link": "mailto:prachaya.dev.work@gmail.com"
         }
     ]
 }
