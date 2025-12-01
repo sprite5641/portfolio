@@ -61,11 +61,15 @@
     "skills": [
         {
             "title": "Programming",
-            "tools": ["TypeScript", "JavaScript", "Golang", "NoSQL", "SQL"]
+            "tools": ["TypeScript", "JavaScript", "Golang", "Dart", "NoSQL", "SQL"]
         },
         {
             "title": "Web",
             "tools": ["Vue", "NodeJS", "Golang", "HTML/CSS", "OAuth", "i18n"]
+        },
+        {
+            "title": "Mobile",
+            "tools": ["Flutter", "Dart"]
         },
         {
             "title": "Databases",

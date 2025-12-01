@@ -4,8 +4,8 @@
         "mobile": "Sprite",
         "desktop": "Prachaya tatiyasamrit"
     },
-    "mainPicture": "/portfolio/assets/HP2.webp",
-    "mainPictureJPG": "/portfolio/assets/HP2.jpg",
+    "mainPicture": "/portfolio/assets/HP3.webp",
+    "mainPictureJPG": "/portfolio/assets/HP3.jpg",
     "pronunciation": "Sprite",
     "audioFile": "/portfolio/assets/name-pro.mp3",
     "cssVarPrefix": "sprite",

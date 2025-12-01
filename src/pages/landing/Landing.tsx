@@ -49,7 +49,7 @@ export const Landing: FC = () => {
                         <picture>
                             <source type="image/webp" src={configs.landing.picture}></source>
                             <source type="image/jpeg" src={configs.landing.jpg}></source>
-                            <Image borderRadius="xl" src={configs.landing.jpg} alt={`face-cover-image`} />
+                            <Image borderRadius="xl" src={configs.landing.jpg} alt={`my-face-cover-image`} />
                         </picture>
                     </Container>
                 </HStack>

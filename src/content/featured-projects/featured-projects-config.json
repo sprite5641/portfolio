@@ -1,5 +1,17 @@
 [
     {
+        "id": "featured-project-flutter-pos",
+        "title": "Flutter POS System",
+        "year": "Apr 2023 - Present",
+        "location": "Chiang Mai",
+        "demo": "-",
+        "github": "-",
+        "tags": ["Flutter", "Dart", "Mobile", "POS", "Cross-platform"],
+        "description": "A cross-platform mobile point of sale application built with Flutter. Features include real-time inventory management, sales tracking, receipt printing, and multi-device synchronization. Designed for seamless operation on both iOS and Android tablets, providing restaurant and retail businesses with a modern, intuitive POS solution.",
+        "image": "/portfolio/assets/featured-projects/pos.webp",
+        "jpg": "/portfolio/assets/featured-projects/pos.png"
+    },
+    {
         "id": "featured-project-pos",
         "title": "Point of Sale",
         "year": "Feb 2023 - Present",
