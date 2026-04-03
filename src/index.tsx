@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import { createRoot } from "react-dom/client";
 
 import { ChakraProvider, ColorModeScript } from "@chakra-ui/react";
 
@@ -9,14 +9,18 @@ import { App } from "./App";
 
 import "./index.scss";
 
-ReactDOM.render(
+const container = document.getElementById("root");
+if (!container) {
+    throw new Error("Root element '#root' not found");
+}
+
+createRoot(container).render(
     <React.StrictMode>
         <ChakraProvider theme={theme}>
             <ColorModeScript initialColorMode={theme.config.initialColorMode} />
             <App />
         </ChakraProvider>
     </React.StrictMode>,
-    document.getElementById("root"),
 );
 
 // If you want to start measuring performance in your app, pass a function

@@ -1,4 +1,4 @@
-import { FC } from "react";
+import type { FC, ReactElement } from "react";
 
 import { Button, HStack, IconButton, Tooltip } from "@chakra-ui/react";
 
@@ -6,7 +6,7 @@ import { configs } from "shared/content/Content";
 import { open, onResumeOpen } from "utils/Functions";
 import { FacebookIcon, GitHubIcon, InstagramIcon, LinkedInIcon, MailIcon, YoutubeIcon } from "utils/Icons";
 
-const LinksToIconMapper: Record<string, JSX.Element> = {
+const LinksToIconMapper: Record<string, ReactElement> = {
     linkedin: <LinkedInIcon />,
     github: <GitHubIcon />,
     facebook: <FacebookIcon />,
