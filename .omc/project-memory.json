@@ -1,0 +1,176 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1785822573981,
+  "projectRoot": "/Users/prachayatatiyasamrit/lab/portfolio-template-v2",
+  "techStack": {
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "tsconfig.json"
+        ]
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "react",
+        "version": "19.2.8",
+        "category": "frontend"
+      },
+      {
+        "name": "react-dom",
+        "version": "19.2.8",
+        "category": "frontend"
+      }
+    ],
+    "packageManager": "pnpm",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": "CI=false pnpm build 2>&1 | grep -vE \"^<w>|^LOG from\" | tail -40",
+    "testCommand": "pnpm test",
+    "lintCommand": null,
+    "devCommand": "pnpm start",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject",
+      "deploy": "git push prod main",
+      "deploy:github": "gh-pages -d build"
+    }
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": true,
+    "workspaces": [],
+    "mainDirectories": [
+      "public",
+      "src"
+    ],
+    "gitBranches": {
+      "defaultBranch": "master",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "build": {
+      "path": "build",
+      "purpose": "Build output",
+      "fileCount": 7,
+      "lastAccessed": 1785822573922,
+      "keyFiles": [
+        "404.html",
+        "asset-manifest.json",
+        "favicon.ico",
+        "index.html",
+        "logo.png"
+      ]
+    },
+    "public": {
+      "path": "public",
+      "purpose": "Public files",
+      "fileCount": 6,
+      "lastAccessed": 1785822573922,
+      "keyFiles": [
+        "404.html",
+        "favicon.ico",
+        "index.html",
+        "logo.png",
+        "manifest.json"
+      ]
+    },
+    "src": {
+      "path": "src",
+      "purpose": "Source code",
+      "fileCount": 6,
+      "lastAccessed": 1785822573928,
+      "keyFiles": [
+        "App.scss",
+        "App.tsx",
+        "index.scss",
+        "index.tsx",
+        "react-app-env.d.ts"
+      ]
+    },
+    "build/assets": {
+      "path": "build/assets",
+      "purpose": "Static assets",
+      "fileCount": 5,
+      "lastAccessed": 1785822573929,
+      "keyFiles": [
+        "HP2.jpg",
+        "HP2.webp",
+        "HP3.jpg"
+      ]
+    },
+    "build/static": {
+      "path": "build/static",
+      "purpose": "Static files",
+      "fileCount": 0,
+      "lastAccessed": 1785822573929,
+      "keyFiles": []
+    },
+    "public/assets": {
+      "path": "public/assets",
+      "purpose": "Static assets",
+      "fileCount": 5,
+      "lastAccessed": 1785822573929,
+      "keyFiles": [
+        "HP2.jpg",
+        "HP2.webp",
+        "HP3.jpg"
+      ]
+    },
+    "src/pages": {
+      "path": "src/pages",
+      "purpose": "Page components",
+      "fileCount": 0,
+      "lastAccessed": 1785822573929,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "package.json",
+      "accessCount": 3,
+      "lastAccessed": 1785822919348,
+      "type": "file"
+    },
+    {
+      "path": "src/reportWebVitals.ts",
+      "accessCount": 2,
+      "lastAccessed": 1785822972382,
+      "type": "file"
+    },
+    {
+      "path": "pnpm-workspace.yaml",
+      "accessCount": 1,
+      "lastAccessed": 1785822644028,
+      "type": "file"
+    },
+    {
+      "path": "src/index.tsx",
+      "accessCount": 1,
+      "lastAccessed": 1785822958110,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
